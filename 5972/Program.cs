@@ -10,6 +10,8 @@ namespace _5972
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("되냐?");
+            Console.ReadLine();
         }
     }
 }
